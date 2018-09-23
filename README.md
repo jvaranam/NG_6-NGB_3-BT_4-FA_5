@@ -1,4 +1,4 @@
-# NG_6-NGB_4-BT_5-FA-5
+# NG_6-NGB_3-BT_4-FA_5
 angular 6, bootstrap 5, ngBootstrap 4, FontAwesome 5
 
 1. Setup a new basic Angular 6 project using CSS
@@ -35,3 +35,8 @@ angular 6, bootstrap 5, ngBootstrap 4, FontAwesome 5
    d) Copy the icon code from FontAwesome5 website. "<i class="fab fa-angular"></i>"
    e) Go to your any app.component.html file and paste the given below code.
       <i class="fab fa-angular"></i>
+      Ref link https://www.positronx.io/setup-angular-6-project-using-bootstrap-4-sass-font-awesome-ng-bootstrap/
+      https://www.youtube.com/watch?v=KV-IEAboPis
+      
+      
+      http://angularjstutorials.net/angular-6-tutorial-with-bootstrap-primeng-firebase-part2/
